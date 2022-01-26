@@ -893,6 +893,7 @@ body {
 
 .footer__input {
   background-color: #1d263a;
+  color: #fff;
 }
 
 .footer__input::placeholder {
